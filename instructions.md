@@ -26,7 +26,11 @@ git checkout
 
 git branch
 
-git mer
+git merge
+
+git clone
+
+git tag
 
 
 * Основные положения
