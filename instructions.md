@@ -48,7 +48,7 @@ _Работа с командами добавления комментария_
 
 *Работа с шрифтами*
 
-Add error in branch 123
+Add error in branch
 
 ## Add error
 
@@ -66,5 +66,10 @@ add commit
 
 _add error in branch tree_
 vvv
+
+bbbb
+
+bbbb
+
 
 
