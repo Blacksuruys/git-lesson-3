@@ -80,23 +80,14 @@ add commit
 
 
 
-
-
-
-
-
-1235 325
-
-
 _add error in branch tree_
-vvv
-
-bbbb
-
-bbbb
 
 
+git push -u original main знакомим с удаленным репозиторием
 
 
-1235 325
+вносим изменения на удаленный сервер
+
+
+
 
